@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "dynamodb-examples-executor",
+    "name": "dynamodb-examples",
+    "region": "ap-southeast-2"
+  },
+  "api": {
+    "id": "kua7ea6fy4",
+    "module": "index"
+  }
+}
